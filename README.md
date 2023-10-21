@@ -14,8 +14,17 @@ URL : https://github.com/chanjuping/coingame
 
 # GODOT FINALISTS
 
-## The Zombie Squad!
+## MASQUERAIN
 
+Team Members: 
+
+1. Ayman Hafeez Bin Mohd Huzaizi
+1. Nur 'Ain Khadijah Binti Suhaimi
+1. Hanis Maisarah Binti Norazman
+
+URL: https://github.com/TheRLMacaron/EPYTHRION-Early-Access
+
+## The Zombie Squad!
 Team Members:  
 
 1. Tatharaj  
