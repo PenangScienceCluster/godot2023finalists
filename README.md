@@ -37,6 +37,16 @@ Team Members: Ashton Yeoh
 
 URL: https://github.com/GoldenLieutenant/EDragon
 
+## Team Master
+
+Team Members:  
+
+1. Tan Zi Jing
+1. Ng Jan Hao
+
+
+URL : https://github.com/tzjingg/colourless....git
+
 ## Masquerain
 
 Team Members: 
