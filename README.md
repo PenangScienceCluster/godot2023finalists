@@ -6,15 +6,15 @@ The entries are to be submitted according to the following format.
 
 # Example template for Pull Request Submissions
 
-## Penang Science Cluster 
+## Penang Science Cluster
 
 Team Members : Chan Ju Ping  
 
-URL : https://github.com/chanjuping/coingame
+URL: https://github.com/chanjuping/coingame
 
-# GODOT FINALISTS
+# Godot Finalist
 
-## MASQUERAIN
+## Masquerain
 
 Team Members: 
 
@@ -24,6 +24,12 @@ Team Members:
 
 URL: https://github.com/TheRLMacaron/EPYTHRION-Early-Access
 
+## Penta
+
+Team member: Charmaine Tan Mi Xien
+
+Game URL: https://github.com/pre-char/Flappy_Rocket.git
+
 ## The Zombie Squad!
 Team Members:  
 
@@ -32,3 +38,4 @@ Team Members:
 1. Amirul Asyraff
 
 Game URL : https://github.com/TechsLearner2/J.O.R.T.N.git
+
