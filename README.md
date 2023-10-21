@@ -6,14 +6,8 @@ The entries are to be submitted according to the following format.
 
 # Competitors
 
-## Penang Science Cluster 
+# Penta 
 
-Team Members: Chan Ju Ping  
+Team Members: Charmaine Tan Mi Xien  
 
-URL https://github.com/chanjuping/coingame
-
-## Georgetown Technology Solutions
-
-Team Members: Chan JP
-
-URL: 
+URL: https://github.com/pre-char/Flappy_Rocket.git
