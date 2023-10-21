@@ -23,6 +23,14 @@ Team Members:
 
 URL : https://github.com/UnknownHumanJ/False-Fantasy-
 
+## The Guys Team
+Team Members:
+
+1. Alfred Lee
+2. Brendon Foong
+
+URL: https://github.com/RANDOMSRANDOM/ShadowedReality-Godot-GameDev-
+
 ## Inquisiter
 
 Team Members: Ashton Yeoh
@@ -63,16 +71,3 @@ Team Members:
 1. Amirul Asyraff
 
 URL : https://github.com/TechsLearner2/J.O.R.T.N.git
-
-
-## The Guys Team
-Team Members:
-
-
-1. ALfred Lee
-2. Brendon Foong
-
-
-URL: https://github.com/RANDOMSRANDOM/ShadowedReality-Godot-GameDev-
-
-
