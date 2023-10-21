@@ -12,8 +12,8 @@ Team Members: Chan Ju Ping
 
 URL https://github.com/chanjuping/coingame
 
-## Georgetown Technology Solutions
+## Inquisiter
 
-Team Members: Chan JP
+Team Members: Ashton Yeoh
 
-URL: 
+URL: https://github.com/GoldenLieutenant/EDragon
