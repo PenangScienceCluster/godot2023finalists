@@ -4,7 +4,7 @@ The following are the list of competitors who will be showcasing their games at 
 
 The entries are to be submitted according to the following format.
 
-# Example template for Pull Request Submissions
+# Example Template for Pull Request Submissions
 
 ## Penang Science Cluster
 
@@ -45,6 +45,15 @@ Team member: Charmaine Tan Mi Xien
 
 URL: https://github.com/pre-char/Flappy_Rocket.git
 
+## WF11
+
+Team Members:
+
+1. Darren Soon
+2. Siew Kae Ren
+
+URL : https://github.com/Darr3n2GG/Puzzle-Knights-2P-
+
 ## The Zombie Squad!
 
 Team Members:  
@@ -55,11 +64,4 @@ Team Members:
 
 URL : https://github.com/TechsLearner2/J.O.R.T.N.git
 
-## WF11
 
-Team Members:
-
-1. Darren Soon
-2. Siew Kae Ren
-
-URL : https://github.com/Darr3n2GG/Puzzle-Knights-2P-
