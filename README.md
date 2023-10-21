@@ -14,6 +14,15 @@ URL: https://github.com/chanjuping/coingame
 
 # Godot Finalist
 
+## False Fantasy
+Team Members:  
+
+1. Janice Lim Jia Ying 
+1. Elis Kong Ee Xuen
+1. Khaw Su Yi
+
+URL : https://github.com/UnknownHumanJ/False-Fantasy-
+
 ## Inquisiter
 
 Team Members: Ashton Yeoh
@@ -45,11 +54,4 @@ Team Members:
 
 URL : https://github.com/TechsLearner2/J.O.R.T.N.git
 
-## False Fantasy
-Team Members:  
 
-1. Janice Lim Jia Ying 
-1. Elis Kong Ee Xuen
-1. Khaw Su Yi
-
-URL : https://github.com/UnknownHumanJ/False-Fantasy-
