@@ -14,6 +14,12 @@ URL: https://github.com/chanjuping/coingame
 
 # Godot Finalist
 
+## Inquisiter
+
+Team Members: Ashton Yeoh
+
+URL: https://github.com/GoldenLieutenant/EDragon
+
 ## Masquerain
 
 Team Members: 
@@ -28,7 +34,7 @@ URL: https://github.com/TheRLMacaron/EPYTHRION-Early-Access
 
 Team member: Charmaine Tan Mi Xien
 
-Game URL: https://github.com/pre-char/Flappy_Rocket.git
+URL: https://github.com/pre-char/Flappy_Rocket.git
 
 ## The Zombie Squad!
 Team Members:  
@@ -37,5 +43,4 @@ Team Members:
 1. Emilda Husna  
 1. Amirul Asyraff
 
-Game URL : https://github.com/TechsLearner2/J.O.R.T.N.git
-
+URL : https://github.com/TechsLearner2/J.O.R.T.N.git
