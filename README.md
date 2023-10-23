@@ -4,15 +4,15 @@ The following are the list of competitors who will be showcasing their games at 
 
 The entries are to be submitted according to the following format.
 
-# Example Template for Pull Request Submissions
-
-## Penang Science Cluster
-
-Team Members : Chan Ju Ping  
-
-URL: https://github.com/chanjuping/coingame
-
 # Godot Finalist
+
+## Apex
+
+Team Members:
+
+1. Cheah Xu Heng
+
+URL: https://github.com/Devxh/Spaceofhell
 
 ## False Fantasy
 Team Members:  
@@ -21,7 +21,7 @@ Team Members:
 1. Elis Kong Ee Xuen
 1. Khaw Su Yi
 
-URL : https://github.com/UnknownHumanJ/False-Fantasy-
+URL: https://github.com/UnknownHumanJ/False-Fantasy-
 
 ## The Guys Team
 Team Members:
@@ -45,7 +45,7 @@ Team Members:
 1. Ng Jan Hao
 
 
-URL : https://github.com/tzjingg/colourless....git
+URL: https://github.com/tzjingg/colourless....git
 
 ## Masquerain
 
@@ -70,7 +70,7 @@ Team Members:
 1. Darren Soon
 2. Siew Kae Ren
 
-URL : https://github.com/Darr3n2GG/Puzzle-Knights-2P-
+URL: https://github.com/Darr3n2GG/Puzzle-Knights-2P-
 
 ## The Zombie Squad!
 
@@ -80,4 +80,4 @@ Team Members:
 1. Emilda Husna  
 1. Amirul Asyraff
 
-URL : https://github.com/TechsLearner2/J.O.R.T.N.git
+URL: https://github.com/TechsLearner2/J.O.R.T.N.git
