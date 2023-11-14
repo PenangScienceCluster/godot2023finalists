@@ -1,10 +1,10 @@
-# godot2023finalists
+# Introduction
 
-The following are the list of competitors who will be showcasing their games at the Penang International Science Fair 2023.
+The following are the list of competitor who will be showcasing their games at the Penang International Science Fair 2023. Each link leads to the team's main game repository which will include the source code as well as the games themselves packaged as ready to play binaries.
 
-The entries are to be submitted according to the following format.
+We are proud of the effort the kids have put into making their games and polishing them over the duration of the program, and have no doubt all of them deserve to be called game developers, and no longer game developers in-training. Please show your support by playing their games!
 
-# Godot Finalist
+# Godot Finalists
 
 ## Apex
 
@@ -63,6 +63,14 @@ Team member: Charmaine Tan Mi Xien
 
 URL: https://github.com/pre-char/Flappy_Rocket.git
 
+## STALE BREAD STUDIOS
+
+Team Menbers:
+
+1. Khor Shao Hern
+2. Tan Yong Zeng
+3. Angus Tiang 
+
 ## WF11
 
 Team Members:
@@ -83,14 +91,5 @@ Team Members:
 
 URL : https://github.com/TechsLearner2/J.O.R.T.N.git
 
-## STALE BREAD STUDIOS
-
-Team Menbers:
-
-1.Khor Shao Hern
-2.Tan Yong Zeng
-3.Angus Tiang 
 
 URL : https://github.com/SHKHOR/-LIGHTBORNE
-
-
