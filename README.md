@@ -71,6 +71,8 @@ Team Menbers:
 2. Tan Yong Zeng
 3. Angus Tiang 
 
+URL : https://github.com/SHKHOR/-LIGHTBORNE
+
 ## WF11
 
 Team Members:
@@ -90,6 +92,3 @@ Team Members:
 
 
 URL : https://github.com/TechsLearner2/J.O.R.T.N.git
-
-
-URL : https://github.com/SHKHOR/-LIGHTBORNE
