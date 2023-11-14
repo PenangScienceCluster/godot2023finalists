@@ -80,4 +80,17 @@ Team Members:
 1. Emilda Husna  
 1. Amirul Asyraff
 
-URL: https://github.com/TechsLearner2/J.O.R.T.N.git
+
+URL : https://github.com/TechsLearner2/J.O.R.T.N.git
+
+## STALE BREAD STUDIOS
+
+Team Menbers:
+
+1.Khor Shao Hern
+2.Tan Yong Zeng
+3.Angus Tiang 
+
+URL : https://github.com/SHKHOR/-LIGHTBORNE
+
+
