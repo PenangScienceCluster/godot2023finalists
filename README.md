@@ -1,4 +1,4 @@
-# Introduction
+# Introduction 
 
 The following are the list of competitor who will be showcasing their games at the Penang International Science Fair 2023. Each link leads to the team's main game repository which will include the source code as well as the games themselves packaged as ready to play binaries.
 
