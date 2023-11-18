@@ -69,9 +69,9 @@ Team Menbers:
 
 1. Khor Shao Hern
 2. Tan Yong Zeng
-3. Angus Tiang 
+3.Angus Tiang Yong Zhe
 
-URL : https://github.com/SHKHOR/-LIGHTBORNE
+URL: https://github.com/SHKHOR/Keep-Climbing
 
 ## WF11
 
