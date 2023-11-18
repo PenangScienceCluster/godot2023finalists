@@ -69,7 +69,7 @@ Team Menbers:
 
 1. Khor Shao Hern
 2. Tan Yong Zeng
-3.Angus Tiang Yong Zhe
+3. Angus Tiang Yong Zhe
 
 URL: https://github.com/SHKHOR/Keep-Climbing
 
