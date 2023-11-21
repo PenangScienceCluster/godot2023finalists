@@ -92,3 +92,15 @@ Team Members:
 
 
 URL : https://github.com/TechsLearner2/J.O.R.T.N.git
+
+# Main Sponsor
+
+A program specifically for training budding game developers is very time consuming and expensive. This program would not have been where it is today without the help of AMD. Thank you again to AMD for making this program a success!
+
+<a href="https://www.amd.com/">
+    <img 
+    src="./res/AMD_Logo.svg" 
+    alt="AMD Logo"
+    width="100"
+    >
+</a>
